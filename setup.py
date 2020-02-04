@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='rabbit-clients',
-    version='2.1.0',
+    version='2.1.1',
     packages=['tests', 'rabbit_clients', 'rabbit_clients.clients'],
     url='https://github.com/awburgess/rabbit-clients',
     license='MIT License',
